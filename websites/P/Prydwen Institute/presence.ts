@@ -145,7 +145,7 @@ presence.on("UpdateData", () => {
 					presenceData.largeImageKey = Assets.Ships;
 					presenceData.smallImageKey = Assets.Gearbuilder;
 					presenceData.smallImageText = "Gear building";
-				} else if (document.location.href === "https://www.prydwen.co/") {
+				} else if (document.location.href === "https://www.prydwen.gg/") {
 					presenceData.details = "Viewing home page";
 					presenceData.largeImageKey = Assets.Ships;
 				} else {
